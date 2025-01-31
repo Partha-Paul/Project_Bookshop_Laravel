@@ -1,0 +1,56 @@
+/* public/css/styles.css */
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header bar styling */
+.header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.header-bar a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.header-bar a:hover {
+    background-color: #575757;
+    border-radius: 4px;
+}
+body {
+    background-image: url('https://thumbs.dreamstime.com/b/modern-spacious-bookshop-natural-color-29821239.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: xx-large;
+}
+.left {
+    flex: 1;
+}
+
+.right {
+    display: flex;
+    gap: 15px;
+}
+
+.right a {
+    background-color: #4CAF50;
+    border-radius: 4px;
+    padding: 8px 16px;
+}
+
+.right a:hover {
+    background-color: #45a049;
+}

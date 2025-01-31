@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://thumbs.dreamstime.com/b/modern-spacious-bookshop-natural-color-29821239.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: xx-large;
+    width: 100%;
+}
+
+.text {
+    margin-top: 15%;
+    text-align: center;
+}
