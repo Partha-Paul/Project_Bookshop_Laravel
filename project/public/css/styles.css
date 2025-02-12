@@ -54,3 +54,9 @@ body {
 .right a:hover {
     background-color: #45a049;
 }
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    color: black;
+    margin: 20px 0;
+}

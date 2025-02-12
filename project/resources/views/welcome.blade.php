@@ -24,7 +24,7 @@
     <!-- Main Content -->
     <div class="content">
         <h1>Welcome to Our Shop!</h1>
-        <p>Your content goes here.</p>
+        <p>To see our collection log in and get to the dashboard.</p>
     </div>
 </body>
 </html>
